@@ -67,7 +67,8 @@ eee@mail.ru
 # Second seminar
 git branch branch_name - создание новой ветки
 ## Creating branches
-
+creating branches creating and newbranches
 ## Merging branches
-
+merging branch creating with main
 ## Conflicts
+Conflict is borned with merging brances creating and main was resolved
