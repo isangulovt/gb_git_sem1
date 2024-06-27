@@ -63,3 +63,11 @@ eee@mail.ru
 нет|да|не знаю
 да|не знаю|нет
 не знаю|да|нет
+
+# Second seminar
+
+## Creating branches
+
+## Merging branches
+
+## Conflicts
