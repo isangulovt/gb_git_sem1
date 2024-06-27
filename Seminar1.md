@@ -68,6 +68,7 @@ eee@mail.ru
 git branch branch_name - создание новой ветки
 ## Creating branches
 creating branches creating and newbranches
+creating new branch conflict
 ## Merging branches
 merging branch creating with main
 ## Conflicts
