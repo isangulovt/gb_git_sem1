@@ -65,7 +65,7 @@ eee@mail.ru
 не знаю|да|нет
 
 # Second seminar
-
+git branch branch_name - создание новой ветки
 ## Creating branches
 
 ## Merging branches
